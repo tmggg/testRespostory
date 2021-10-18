@@ -23,20 +23,3 @@ C:\Users\TMGG\Desktop\Study\设计模式\设计模式-抽象工厂\obj\Debug\net
 C:\Users\TMGG\Desktop\Study\设计模式\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.pdb
 C:\Users\TMGG\Desktop\Study\设计模式\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.genruntimeconfig.cache
 C:\Users\TMGG\Desktop\Study\设计模式\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.exe
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.deps.json
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.runtimeconfig.json
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.runtimeconfig.dev.json
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.dll
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.pdb
-<<<<<<< HEAD
-=======
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.csproj.AssemblyReference.cache
->>>>>>> b1
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.AssemblyInfoInputs.cache
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.AssemblyInfo.cs
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.dll
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.pdb
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.genruntimeconfig.cache

@@ -11,3 +11,4 @@ C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-建造者模式\
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-建造者模式\obj\Debug\netcoreapp3.1\设计模式-建造者模式.dll
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-建造者模式\obj\Debug\netcoreapp3.1\设计模式-建造者模式.pdb
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-建造者模式\obj\Debug\netcoreapp3.1\设计模式-建造者模式.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-建造者模式\obj\Debug\netcoreapp3.1\设计模式-建造者模式.csproj.AssemblyReference.cache
