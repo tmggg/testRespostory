@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nb/YwUOXPb0g3PaY/j7qUwM7iPu8cWK7QSFenXoO/gUEcTGUUoFxpF2X+zLeks9n1Gdv+tQ5Hfua+nLBaP7QAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TMGG\\Desktop\\Study\\设计模式\\设计模式-迭代器模式\\设计模式-迭代器模式.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TMGG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
