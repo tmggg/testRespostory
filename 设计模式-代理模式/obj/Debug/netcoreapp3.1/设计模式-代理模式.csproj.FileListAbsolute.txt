@@ -4,6 +4,10 @@ C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-代理模式\bin
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-代理模式\bin\Debug\netcoreapp3.1\设计模式-代理模式.runtimeconfig.dev.json
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-代理模式\bin\Debug\netcoreapp3.1\设计模式-代理模式.dll
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-代理模式\bin\Debug\netcoreapp3.1\设计模式-代理模式.pdb
+<<<<<<< HEAD
+=======
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-代理模式\obj\Debug\netcoreapp3.1\设计模式-代理模式.csproj.AssemblyReference.cache
+>>>>>>> b1
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-代理模式\obj\Debug\netcoreapp3.1\设计模式-代理模式.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-代理模式\obj\Debug\netcoreapp3.1\设计模式-代理模式.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-代理模式\obj\Debug\netcoreapp3.1\设计模式-代理模式.AssemblyInfo.cs
