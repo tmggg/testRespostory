@@ -24,3 +24,16 @@ C:\Users\Administrator\Desktop\Study\设计模式\设计模式-解析器模式\o
 C:\Users\Administrator\Desktop\Study\设计模式\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.dll
 C:\Users\Administrator\Desktop\Study\设计模式\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.pdb
 C:\Users\Administrator\Desktop\Study\设计模式\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\bin\Debug\netcoreapp3.1\设计模式-解析器模式.exe
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\bin\Debug\netcoreapp3.1\设计模式-解析器模式.deps.json
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\bin\Debug\netcoreapp3.1\设计模式-解析器模式.runtimeconfig.json
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\bin\Debug\netcoreapp3.1\设计模式-解析器模式.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\bin\Debug\netcoreapp3.1\设计模式-解析器模式.dll
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\bin\Debug\netcoreapp3.1\设计模式-解析器模式.pdb
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.dll
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.pdb
+C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-解析器模式\obj\Debug\netcoreapp3.1\设计模式-解析器模式.genruntimeconfig.cache

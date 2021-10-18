@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KQmN+tQwbqo5Ve5qmtiuO1gzII/Z8P/L0bpaPEJzHVBV4vGV+ndEulCn04zbjfQ4qxGV/Q9vk9KyNSp1+oaOJQ==",
+  "dgSpecHash": "f741d7cjCqDwRM2rdaXgAFpbGEvKMbiSFePS6nczI8UfELDhuEcporSXGwXsaUcITbBdO75EgCHrn60/I868TQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Study\\设计模式\\单例模式\\设计模式-单例模式.csproj",
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\单例模式\\设计模式-单例模式.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

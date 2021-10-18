@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Study\\设计模式\\设计模式-工厂方法模式\\设计模式-工厂方法模式.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\设计模式-工厂方法模式\\设计模式-工厂方法模式.csproj",
       "projectName": "设计模式-工厂方法模式",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Study\\设计模式\\设计模式-工厂方法模式\\设计模式-工厂方法模式.csproj",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\设计模式-工厂方法模式\\设计模式-工厂方法模式.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Study\\设计模式\\设计模式-工厂方法模式\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\设计模式-工厂方法模式\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
