@@ -26,10 +26,11 @@ namespace 设计模式
 
             MessageModelCaretaker mmc = new MessageModelCaretaker();
             mmc.MessageModel = m.SaveMemento();
-
+            //
             bool result = false;
             while (!result)
             {
+                //
                 result = m.Insert(new MessageModel(m.Message, m.PublishTime));
                 Console.WriteLine(m.Message + " " + m.PublishTime.ToString() + " " + result.ToString());
                 if (!result)
