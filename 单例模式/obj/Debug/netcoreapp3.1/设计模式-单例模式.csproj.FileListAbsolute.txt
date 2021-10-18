@@ -4,7 +4,6 @@ C:\Users\Administrator\Desktop\Repo\testRespostory\单例模式\bin\Debug\netcor
 C:\Users\Administrator\Desktop\Repo\testRespostory\单例模式\bin\Debug\netcoreapp3.1\设计模式-单例模式.runtimeconfig.dev.json
 C:\Users\Administrator\Desktop\Repo\testRespostory\单例模式\bin\Debug\netcoreapp3.1\设计模式-单例模式.dll
 C:\Users\Administrator\Desktop\Repo\testRespostory\单例模式\bin\Debug\netcoreapp3.1\设计模式-单例模式.pdb
-C:\Users\Administrator\Desktop\Repo\testRespostory\单例模式\obj\Debug\netcoreapp3.1\设计模式-单例模式.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\Repo\testRespostory\单例模式\obj\Debug\netcoreapp3.1\设计模式-单例模式.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\Repo\testRespostory\单例模式\obj\Debug\netcoreapp3.1\设计模式-单例模式.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\Repo\testRespostory\单例模式\obj\Debug\netcoreapp3.1\设计模式-单例模式.AssemblyInfo.cs

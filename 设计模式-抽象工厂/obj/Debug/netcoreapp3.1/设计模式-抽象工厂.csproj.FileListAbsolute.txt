@@ -29,7 +29,6 @@ C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.runtimeconfig.dev.json
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.dll
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\bin\Debug\netcoreapp3.1\设计模式-抽象工厂.pdb
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-抽象工厂\obj\Debug\netcoreapp3.1\设计模式-抽象工厂.AssemblyInfo.cs

@@ -4,7 +4,6 @@ C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-观察者模式\
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-观察者模式\bin\Debug\netcoreapp3.1\设计模式-观察者模式.runtimeconfig.dev.json
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-观察者模式\bin\Debug\netcoreapp3.1\设计模式-观察者模式.dll
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-观察者模式\bin\Debug\netcoreapp3.1\设计模式-观察者模式.pdb
-C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-观察者模式\obj\Debug\netcoreapp3.1\设计模式-观察者模式.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-观察者模式\obj\Debug\netcoreapp3.1\设计模式-观察者模式.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-观察者模式\obj\Debug\netcoreapp3.1\设计模式-观察者模式.AssemblyInfoInputs.cache
 C:\Users\Administrator\Desktop\Repo\testRespostory\设计模式-观察者模式\obj\Debug\netcoreapp3.1\设计模式-观察者模式.AssemblyInfo.cs
