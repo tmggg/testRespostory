@@ -10,6 +10,10 @@ using System.Threading;
 //有一个Message实体类，某个对象对它的操作有Insert()方法，只有在插入时间符合要求的情况下才能插入成功，因此要求可以保存和恢复Message对象的状态，插入失败后则恢复Message对象的状态，然后只更新时间，再次插入。
 #endregion
 
+
+/// <summary>
+/// 
+/// </summary>
 namespace 设计模式
 {
     class Program
