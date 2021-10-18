@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KoO1VgncH4a/+gR4DNNXaZnvEeMuV+bdOx7TsOZjdQFPfxcZ2eqJQobRv0nz+b+hhiPb2XFSwdIfhedau6QFzw==",
+  "dgSpecHash": "ehEH/BWxEnzyrXZtDGhkZtyJrTqvqBsdqFnlEKEjdcv3V/C7ug1BT6Zd9eQF6XFQXG9kj/1wYPjGJ0hLaCeY3A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\TMGG\\Desktop\\Study\\设计模式\\设计模式-抽象工厂\\设计模式-抽象工厂.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\TMGG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Study\\设计模式\\设计模式-抽象工厂\\设计模式-抽象工厂.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
