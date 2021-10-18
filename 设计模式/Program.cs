@@ -43,12 +43,6 @@ namespace 设计模式
                     m.PublishTime = DateTime.Now;
                 }
             }
-
-
-
-
-
-
             //这是注释
         }
 
