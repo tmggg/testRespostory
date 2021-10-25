@@ -26,6 +26,7 @@ namespace 设计模式
             ///
             m.Message = "测试内容";
             m.PublishTime = DateTime.Now;
+            int test = 3;
 
             MessageModelCaretaker mmc = new MessageModelCaretaker();
             mmc.MessageModel = m.SaveMemento();
