@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using System.Threading;
 
@@ -43,6 +43,7 @@ namespace 设计模式
                     m.PublishTime = DateTime.Now;
                 }
                 //b
+                //2222
             }
 
 
