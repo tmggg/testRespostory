@@ -42,7 +42,7 @@ namespace 设计模式
                     m.RestoreMemento(mmc.MessageModel);
                     m.PublishTime = DateTime.Now;
                 }
-                //bbb
+                //bbbb
                 //ccc
                 //mmm
             }
