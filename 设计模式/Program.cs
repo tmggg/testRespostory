@@ -24,7 +24,7 @@ namespace 设计模式
         {
 
 
-            //c
+            //d
             SqlMessage m = new SqlMessage();
             ///
             ///
