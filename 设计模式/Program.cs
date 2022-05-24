@@ -22,8 +22,7 @@ namespace 设计模式
     {
         static void Main(string[] args)
         {
-
-
+            //a
             //d
             SqlMessage m = new SqlMessage();
             ///
