@@ -24,6 +24,8 @@ namespace 设计模式
         {
             //a
             //d
+            //c
+            //d
             SqlMessage m = new SqlMessage();
             int temp1 = 1;
             m.Message = "测试内容";
