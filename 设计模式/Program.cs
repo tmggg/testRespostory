@@ -16,6 +16,7 @@ using System.Threading;
 /// </summary>
 namespace 设计模式
 {
+
     class Program
     {
 
