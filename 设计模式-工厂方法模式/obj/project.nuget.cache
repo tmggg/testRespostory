@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "rLotzrpiuatThuGPXafln4HjaITojjeCHPvaSeIoQH0wEJGeh0zTyz7UPBP9U/aZaB0LcgTECa1/BTwd6PPurg==",
+  "dgSpecHash": "JfuCFr4lAkZExu9pshc+3UuVEUxoLHrcHN0mw1MpSVfA43k7la+uZ47XxKHtcA1EfB0If5295evRS2sctnteEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\设计模式-工厂方法模式\\设计模式-工厂方法模式.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Repo\\testRespostory\\设计模式-工厂方法模式\\设计模式-工厂方法模式.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TMGG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

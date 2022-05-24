@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "f741d7cjCqDwRM2rdaXgAFpbGEvKMbiSFePS6nczI8UfELDhuEcporSXGwXsaUcITbBdO75EgCHrn60/I868TQ==",
+  "dgSpecHash": "ML5bA9IZHWeoTnTt49LeuRr4kgmVJfVkt+6ehuJ1vGluF13FlU4nEgFhg9BPddNX8WIgA43tdNeaTzRD2Xh+Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\单例模式\\设计模式-单例模式.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Repo\\testRespostory\\单例模式\\设计模式-单例模式.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TMGG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

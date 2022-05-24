@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CN5NyXA4Ovb5CDfAGCKoVdFk1wil9PXMD5RNJSELcAmPi1f2V8nkDU2nm1zV1mpqtP6OspdGw4iO61YB/TGaQQ==",
+  "dgSpecHash": "+KjayQJr6WzuxT++IVDGGe1WjOMW3UjOjdYxDiTV28vZ2wpc3zveQ45Uo6/TybbX4bckSrHxSMH8aSqiL+SY0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\设计模式-策略模式\\设计模式-策略模式.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Repo\\testRespostory\\设计模式-策略模式\\设计模式-策略模式.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TMGG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

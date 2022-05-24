@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GTtq3f5KPSMZEDMu7qRaFrn4lcJn2+wZSg65FwANIpl8uGBjmymMCt+wD/TWcVMJqjfBuqQMua2u5rl0BRns6A==",
+  "dgSpecHash": "CiQXSdg5gHOV8vJ4JfdMYJZpfe9glSLP+OB2EIxfxRdReQf1mMDFc9Iwagz8Ujnyh2FlBviDWoMOLJjEczgdaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\设计模式-访问者模式\\设计模式-访问者模式.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Repo\\testRespostory\\设计模式-访问者模式\\设计模式-访问者模式.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TMGG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FN/V4ebpeIzu3f/GMBWag1gXxJi2aE5qHO9RXIH6Uex7LxwDro5fn7Sa4RA3Erf9KbuoS9RB+b5HGJmLXIXAiA==",
+  "dgSpecHash": "ApCPXX3ludqLce+t9C5oVqGrhexeQjT/eX/CeHBa/Hy+hDAHVKfFUeBTlmgyfld3CZsFoqg+w+uA7b2fbhyFFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Repo\\testRespostory\\设计模式-建造者模式\\设计模式-建造者模式.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Repo\\testRespostory\\设计模式-建造者模式\\设计模式-建造者模式.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TMGG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
   "logs": []
 }
