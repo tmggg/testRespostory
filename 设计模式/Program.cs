@@ -25,9 +25,6 @@ namespace 设计模式
             //a
             //d
             SqlMessage m = new SqlMessage();
-            ///
-            ///
-            ///
             int temp1 = 1;
             m.Message = "测试内容";
             m.PublishTime = DateTime.Now;
