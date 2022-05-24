@@ -19,6 +19,7 @@ namespace 设计模式
     class Program
     {
 
+
         static void Main(string[] args)
         {
             SqlMessage m = new SqlMessage();
